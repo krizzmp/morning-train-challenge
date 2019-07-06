@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+body{
+  font-family: -apple-system, Roboto, sans-serif;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.box {
+  padding: 4px;
+  background: white;
+}
+.body {
+  width: 220px;
+  margin: 8px;
+}
+
+.headline {
+  width: 220px;
+  margin: 8px;
+  font-size: 1.5em;
+}
+button.invisible-button{
+  border: none;
+  font: inherit;
+  margin: 16px;
+
+}

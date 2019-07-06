@@ -1,0 +1,21 @@
+{
+  "name": "morning-train-challenge",
+  "version": "1.0.0",
+  "description": "challenge for morningtrain job application",
+  "main": "index.js",
+  "author": "kristoffer petersen",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@reach/dialog": "^0.2.9",
+    "@reach/visually-hidden": "^0.1.4",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.3"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
